@@ -15,7 +15,7 @@ one part I think funny is the writer of this paper is the same guy that writes t
 ### Ninth, there has never been a true, important worse-is-better/the-right-thing faceoff, and so no one can point to an actual example of the theory that one has greater survival characteristics than the other.
 
 I think this passage mainly talks to part
-one part is, the argument of worse is better itself is wrong:there is never a confront between unix,c and Lisp together with its operating system.since they have different using fields.
+one part is, the argument of worse is better itself is wrong:there is never a confront between unix,c and Lisp together with its operating system.since they have different using fields.Also,at that time , Unix and C isn't worse at all compared to other OS and PL.
 and also the pc-loser-ring example seems wrong because return a flag to user is the right thing.Also, there was never a design really takes worse is better philosophy and there is no one can really chase do the right thing. there is always compromises!
 
 the other part is the advice of worse is better to students and new developers is corrosive. One shouldn't aim at high and implement 50% of it in the beginning.One should try to get the best at the beginning instead though compromises have to be made.
